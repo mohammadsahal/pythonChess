@@ -3,11 +3,11 @@
 
 Walkthrough
 
-Server
+Server <br />
 ![](images/server.png)
 
-Data Transfer
+Data Transfer <br />
 ![](images/data.png)
 
-Chessboard
+Chessboard <br />
 ![](images/board.png)
